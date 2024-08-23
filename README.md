@@ -1,3 +1,3 @@
 # Practice kokoa clone
 
-Html and CSS are so much fun!
+Html and CSS are so much fun
