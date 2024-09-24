@@ -1,0 +1,17 @@
+.user-component__column__message-icon {
+  width: 40px;
+  height: 40px;
+  color: black;
+}
+.user-component__not-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.user-component__icon {
+  width: 20px;
+  height: 20px;
+  margin-left: 5px;
+  color: red;
+  margin-bottom: -6px;
+}
