@@ -1,3 +1,4 @@
+/* user-component */
 .user-component__column__message-icon {
   width: 40px;
   height: 40px;
@@ -14,4 +15,36 @@
   margin-left: 5px;
   color: red;
   margin-bottom: -6px;
+}
+
+/* Main-screen */
+.more-screen .icon-row {
+  margin-top: 35px;
+}
+.icon-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.icon-row__icon {
+  display: flex;
+  width: 25%;
+  padding: 20px;
+}
+
+.more-suggestions {
+  margin-top: 50px;
+  border-top: var(--main-border);
+  padding-top: 35px;
+}
+.more-suggestions__title {
+  margin-bottom: 30px;
+}
+
+/* Suggestions */
+.more-suggestions {
+  display: flex;
+}
+.more-suggestions__ic {
+  width: 50px;
+  height: 50px;
 }
